@@ -1,4 +1,4 @@
-Pipellie{
+Pipellie {
     agent any
     stages {
       stages {''){
