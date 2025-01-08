@@ -4,6 +4,7 @@ Pipeline {
       stages {''){
         steps {
           echo "hello world"
+            pwd
             }
       }
      }
