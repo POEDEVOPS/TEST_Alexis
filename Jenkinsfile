@@ -3,8 +3,8 @@ Pipeline {
     stages {
       stages {''){
         steps {
-          echo "hello world"
-            pwd
+            echo "hello world"
+            ls
             }
       }
      }
