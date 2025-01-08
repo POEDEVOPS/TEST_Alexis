@@ -1,10 +1,9 @@
 Pipeline {
     agent any
     stages {
-      stages {''){
+      stage {'stage 1'){
         steps {
             echo "hello world"
-            ls
             }
       }
      }
